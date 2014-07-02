@@ -2,11 +2,11 @@
 <html lang="en">
 
     <head>
-        <?php include_once "\partials\_Head.php"; ?>
+        <?php include_once "partials/_Head.php"; ?>
     </head>
 
     <body>
-        <?php include_once '\partials\_MainMenu.php'; ?>
+        <?php include_once 'partials/_MainMenu.php'; ?>
         <div class="container">
 
             <div class="col-md-12 well">
@@ -370,7 +370,7 @@
             </div>
         </div>
         <footer>
-            <?php include_once "\partials\_Footer.php"; ?>
+            <?php include_once "partials/_Footer.php"; ?>
         </footer>
         <script src="js/jquery-1.10.2.js"></script>
         <script src="js/bootstrap.js"></script>

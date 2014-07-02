@@ -2,13 +2,13 @@
 <html lang="en">
 
     <head>
-        <?php include_once "\partials\_Head.php"; ?>
+        <?php include_once "partials/_Head.php"; ?>
         <link href="css/halfslider.css" rel="stylesheet">
     </head>
 
     <body>
 
-        <?php include_once '\partials\_MainMenu.php'; ?>
+        <?php include_once 'partials/_MainMenu.php'; ?>
 
 
         <div id="myCarousel" class="carousel slide">
@@ -44,7 +44,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <img class="img-responsive img-rounded" src="assets/images/softuni_header.jpg">
+                    <img class="img-responsive img-rounded" src="assets/images/softuni_header.jpg" alt="header"/>
                 </div>
                 <div class="col-lg-4">
                     <h1>Softuni нинджи</h1>
@@ -69,9 +69,8 @@
 
             <div class="row">
                 <div class="col-lg-4">
-                    <img class="img-circle img-responsive text-center" src="assets/images/technologies.png">
+                    <img class="img-circle img-responsive text-center" src="assets/images/technologies.png" alt="tech"/>
                     <h2>Използвани технологии</h2>
-                    <p>
                     <ul>
                         <li>
                             Version control - Git
@@ -86,12 +85,10 @@
                             CSS frameworks - Bootstrap
                         </li>
                     </ul>
-                    </p>
                 </div>
                 <div class="col-lg-4">
-                    <img class="img-circle img-responsive" src="assets/images/team.jpg">
+                    <img class="img-circle img-responsive" src="assets/images/team.jpg" alt="team"/>
                     <h2>Участници</h2>
-                    <p>
                     <ul>
                         <li>
                             Martin Tsekov
@@ -118,10 +115,9 @@
                             (zkalev)
                         </li>
                     </ul>
-                    </p>
                 </div>
                 <div class="col-lg-4">
-                    <img class="img-circle img-responsive" src="assets/images/softUni.png">
+                    <img class="img-circle img-responsive" src="assets/images/softUni.png" alt="soft uni"/>
                     <h2>За Softuni</h2>
                     <p>
                         Учебният план, по който се провеждат занятията в Софтуерния университет, се състои от няколко нива – едно подготвително ниво за приемния изпит (2 месеца) и 6 нива обучение по програмиране, технологии и разработка на софтуер (всяко по 4 месеца)...
@@ -134,15 +130,14 @@
         </div>
 
         <footer>
-            <?php include_once "\partials\_Footer.php"; ?>
+            <?php include_once "partials/_Footer.php"; ?>
         </footer>
-        <script src="js/jquery-1.10.2.js"></script>
-        <script src="js/bootstrap.js"></script>
+        <script src="js/jquery-1.10.2.js" type="text/javascript"></script>
+        <script src="js/bootstrap.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $("#myCarousel").carousel();
+            });
+        </script>
     </body>
-
 </html>
-<script>
-    $(document).ready(function() {
-        $("#myCarousel").carousel();
-    });
-</script>
