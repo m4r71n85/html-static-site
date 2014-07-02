@@ -22,7 +22,7 @@
                         <a href="fun.php">Забавно</a>
                     </li>
                     <li>
-                        <a href="#">За Softuni</a>
+                        <a href="about-softuni.php">За Softuni</a>
                     </li>
                 </ul>
             </div>

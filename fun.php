@@ -31,7 +31,7 @@
             <div class="col-lg-5 col-md-5">
                 <h3>Когато PM-а влезе в офиса</h3>
                 <p>Веднъж един катаджия имаше неблагоразумието да глоби Светлин Наков за превишена скорост. Още същия ден, Наков му изтри апартамента с SQL injection.</p>
-                <a class="btn btn-primary" href="https://softuni.bg/">Към универистета<span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="btn btn-primary" href="https://softuni.bg/">Към университета<span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
 
         </div>
@@ -49,7 +49,7 @@
             <div class="col-lg-5 col-md-5">
                 <h3>Деплой на продъкшън</h3>
                 <p>Когато не може да заспи, Светлин Наков брои овце - 1, 2, 3... 9, А, B, C, D, E, F, 10... Когато overflow-не long, обръща и почва отново от -9223372036854775809.</p>
-                <a class="btn btn-primary" href="https://softuni.bg/">Към универистета<span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="btn btn-primary" href="https://softuni.bg/">Към университета<span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
 
         </div>
@@ -67,7 +67,7 @@
             <div class="col-lg-5 col-md-5">
                 <h3>При всяко демо пред PM-a</h3>
                 <p>Когато няма Visual Studio под ръка, Светлин Наков програмира на C# в двоичен вид. Обикновено кодът върви с 30% по-бързо от компилирания.</p>
-                <a class="btn btn-primary" href="https://softuni.bg/">Към универистета<span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="btn btn-primary" href="https://softuni.bg/">Към университета<span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
 
         </div>
@@ -85,7 +85,7 @@
             <div class="col-lg-5 col-md-5">
                 <h3>Когато кода се качи на бета и се репортне първия бъг</h3>
                 <p>Microsoft искат да преименуват "Cancel" бутона на "Махай се гад мръсна!",но все още чакат позволение от Светлин Наков.</p>
-                <a class="btn btn-primary" href="https://softuni.bg/">Към универистета<span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="btn btn-primary" href="https://softuni.bg/">Към университета<span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
 
         </div>
@@ -103,7 +103,7 @@
             <div class="col-lg-5 col-md-5">
                 <h3>Когато си тръгвам в петък от офиса и колегите оправят бъг</h3>
                 <p>Светлин Наков само веднъж е имал бъг в програмата си. Резултата? Глобалната финансова криза.</p>
-                <a class="btn btn-primary" href="https://softuni.bg/">Към универистета<span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="btn btn-primary" href="https://softuni.bg/">Към университета<span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
 
         </div>

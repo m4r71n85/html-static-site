@@ -20,7 +20,6 @@
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -142,10 +141,8 @@
         <footer>
             <?php include_once "\partials\_Footer.php"; ?>
         </footer>
-
         <script src="js/jquery-1.10.2.js"></script>
         <script src="js/bootstrap.js"></script>
-
     </body>
 
 </html>
