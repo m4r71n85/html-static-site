@@ -2,51 +2,12 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>Softuni project</title>
-
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <link href="css/style.css" rel="stylesheet">
-
+    <?php include_once "\partials\_Head.php"; ?>
 </head>
 
 <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Вкл навигация</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">
-                    <img src="assets/images/logo.png" alt="">
-                </a>
-            </div>
-
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="index.html">За нас</a>
-                    </li>
-                    <li>
-                        <a href="fun.html">Забавно</a>
-                    </li>
-                    <li>
-                        <a href="#">За Softuni</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <?php include_once '\partials\_MainMenu.php';  ?>
 
     <div class="container">
         <div class="row">
@@ -146,16 +107,10 @@
             </div>
 
         </div>
-        <footer>
-            <hr>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Company 2014</p>
-                </div>
-            </div>
-        </footer>
     </div>      
-
+    <footer>
+        <?php include_once "\partials\_Footer.php"; ?>
+    </footer>
     <script src="js/jquery-1.10.2.js"></script>
     <script src="js/bootstrap.js"></script>
 
