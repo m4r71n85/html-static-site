@@ -2,6 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
+<link href="/softuni/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 <title>Softuni project</title>
 

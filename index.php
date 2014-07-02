@@ -26,7 +26,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
+                <div class="fill" style="background-image:url('assets/images/softUni-slide1.png');"></div>
                 <div class="carousel-caption">
                     <h1>A Full-Width Image Slider Template</h1>
                 </div>
