@@ -8,6 +8,33 @@
     <body>
         <?php include_once '\partials\_MainMenu.php'; ?>
         <div class="container">
+
+            <div class="col-md-12 well">
+                <h2 class="blue"><strong>Софтуерен университет</strong></h2>
+                <section>
+                    <div class="col-md-7 some-spacing-text">
+                        <p class="aboutText">
+                            За нас, както и за цялата софтуерна индустрия, е най-важен <strong>практическият опит</strong>.
+                            Нашата мисия е да направим хората, които обучаваме, <strong>
+                                истински професионалисти в софтуерната
+                                индустрия
+                            </strong> и да им съдействаме в <strong>намирането на работа</strong>.
+                            <br>
+                            <br>
+                            Учебният план, по който се провеждат занятията в Софтуерния университет, се състои от няколко нива &ndash;
+                            едно подготвително ниво за приемния изпит (2 месеца) и 6 нива обучение по програмиране, технологии
+                            и разработка на софтуер (всяко по 4 месеца). Предоставя се възможност за получаване на университетска
+                            <strong>диплома за висше образование</strong> от един от нашите университети-партньори след
+                            допълнително обучение при тях с продължителност 1 или 2 години.
+                        </p>
+                    </div>
+                </section>
+                <div class="col-md-5">
+                    <img alt="Generic placeholder image" src="assets/images/softUni-transparent.png" class="img-responsive right center">
+                    <!--<div class="linkBelowImage"><a href="#" class="gallery">View full gallery</a></div>-->
+                </div>
+            </div>
+
             <ul class="nav nav-tabs" role="tablist" id="myTab">
                 <li class="active"><a href="#softuni" role="tab" data-toggle="tab">Софтуерен университет</a></li>
                 <li><a href="#fondation" role="tab" data-toggle="tab">Фондация</a></li>

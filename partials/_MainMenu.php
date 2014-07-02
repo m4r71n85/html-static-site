@@ -22,6 +22,9 @@
                         <a href="fun.php">Забавно</a>
                     </li>
                     <li>
+                        <a href="nakov-jokes.php">Шеги за Наков</a>
+                    </li>
+                    <li>
                         <a href="about-softuni.php">За Softuni</a>
                     </li>
                 </ul>
