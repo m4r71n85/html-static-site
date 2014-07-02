@@ -28,19 +28,13 @@
             <div class="item active">
                 <div class="fill" style="background-image:url('assets/images/softUni-slide1.png');"></div>
                 <div class="carousel-caption">
-                    <h1>A Full-Width Image Slider Template</h1>
+                    <h1>All you need is <span class="strike-out">love</span> IDE</h1>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+                <div class="fill" style="background-image:url('assets/images/slide-workout.jpg');"></div>
                 <div class="carousel-caption">
-                    <h1>Caption 2</h1>
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
-                <div class="carousel-caption">
-                    <h1>Caption 3</h1>
+                    <h1>Nine people can’t make a baby in a month.</h1>
                 </div>
             </div>
         </div>
